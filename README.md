@@ -1,10 +1,10 @@
 # Thomas Nguyen
 
-Hi! My name is Thomas Nguyen , and I'm a Full-stack web developer specializing in using PHP, Magento, Shopify, Remixjs, Nodejs,.. to buid software solutions for clients.<br/>
+Hi! My name is Thomas Nguyen , and I'm a Full-stack web developer specializing in using PHP, Magento, Shopify, Remixjs, Nodejs,.. to build software solutions for clients.
 
 I'm _Software engineer and journalist based in Hanoi, Vietnam <br>
 
-I've available for Remote Dedicated Development Job, Freelance, IT Support, Outsourcing Project. <br>
+I'm available for Remote Dedicated Development Job, Freelance, IT Support, Outsourcing Project. <br>
 
 [Email](mailto:thomasnguyen899321@gmail.com) / [Linkedin](https://www.linkedin.com/in/workwiththomas/) / [GitHub](https://github.com/thomasnguyen244/) <br>
 
