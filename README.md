@@ -1,6 +1,6 @@
 # Thomas Nguyen
 
-Hi! My name is Thomas Nguyen , and I'm a Full-stack web developer specializing in using PHP, Magento, Shopify, Remixjs, Nodejs,.. to build software solutions for clients.
+Hi! My name is Thomas Nguyen , and I'm a Full-stack web developer specializing in using PHP, Laravel, Magento, Shopify, Remixjs, Nodejs,.. to build software solutions for clients.
 
 I'm _Software engineer, Project Manager, Co-Founder at [WorkWithThomas](https://workwiththomas.com) and journalist based in Hanoi, Vietnam <br>
 
@@ -10,7 +10,7 @@ I'm available for Remote Dedicated Development Job, Freelance, IT Support, Outso
 
 ## My Technical Stacks
 - Front-end: HTML/CSS, JavaScript, React, Remix JS, Bootstrap, Tailwind CSS
-- Back-end: PHP, Node JS, Fastify, PostgreSQL, RestAPI, GraphQL
+- Back-end: PHP, Laravel, Node JS, Fastify, PostgreSQL, RestAPI, GraphQL
 - Tools and Methods: Git | GitHub | Mobile/Responsive Development | Chrome Dev tools
 - Professional Skills: Remote Dedicated Development | Planning project sprint tasks | Support technical issue | Design API Specification | Teamwork | Leadership | Code Reviews | Time Management | Collaboration
 
